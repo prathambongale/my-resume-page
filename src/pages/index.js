@@ -289,16 +289,15 @@ const IndexPage = () => (
         <div className="w-100">
           <h2 className="mb-5">Interests</h2>
           <p>
-            Apart from being a web developer, I enjoy most of my time being
-            outdoors. In the winter, I am an avid skier and novice ice climber.
-            During the warmer months here in Colorado, I enjoy mountain biking,
-            free climbing, and kayaking.
+            Apart from coding, I enjoy most of my time being
+            outdoors. I like to go for Hiking and Camping every chance I get.
+            I also like try different varieties of food.
           </p>
           <p className="mb-0">
-            When forced indoors, I follow a number of sci-fi and fantasy genre
+            When forced indoors, I follow a number of sci-fi, superhero and fantasy genre
             movies and television shows, I am an aspiring chef, and I spend a
             large amount of my free time exploring the latest technology
-            advancements in the front-end web development world.
+            advancements in the Backend, Cloud and Blockchain development world.
           </p>
         </div>
       </section>
@@ -314,34 +313,15 @@ const IndexPage = () => (
           <ul className="fa-ul mb-0">
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Google Analytics Certified Developer
+              <a href="http://university.mongodb.com/course_completion/f0184eb737014c3586beb96f548a7253">
+                M101J: MongoDB for Java Developers
+              </a>
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Mobile Web Specialist - Google Certification
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2009
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - University of Colorado Boulder - Adobe Creative Jam 2008
-              (UI Design Category)
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>2<sup>nd</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2008
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - James Buchanan High School - Hackathon 2006
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>3<sup>rd</sup>
-              Place - James Buchanan High School - Hackathon 2005
+              <a href="https://www.credential.net/7996916a-895b-48cc-a963-b34c804f9121#gs.fbp72l">
+                Certified Blockchain Expert
+              </a>
             </li>
           </ul>
         </div>
