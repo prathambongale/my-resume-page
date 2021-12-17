@@ -6,6 +6,7 @@ module.exports = {
     title: config.siteTitle,
   },
   plugins: [
+    'gatsby-plugin-offline',
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
@@ -19,7 +20,6 @@ module.exports = {
         icon: config.manifestIcon, // This path is relative to the root of the site.
       },
     },
-    'gatsby-plugin-sass',
-    'gatsby-plugin-offline',
+    'gatsby-plugin-sass'
   ],
 };
