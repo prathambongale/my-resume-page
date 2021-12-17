@@ -13,7 +13,7 @@ module.exports = {
   // social
   socialLinks: [
     {
-      icon: 'https://img.icons8.com/ios-glyphs/60/000000/github.png',
+      icon: 'fa-github',
       name: 'Github',
       url: 'https://github.com/prathambongale',
     },
